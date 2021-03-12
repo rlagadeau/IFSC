@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IFSC</string>
+    <string name="validator">IFSC Code Validator</string>
+    <string name="btn">Get Bank Details</string>
+    <string name="hint" tools:ignore="TypographyEllipsis">Code comes here...</string>
+</resources>
